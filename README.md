@@ -1,4 +1,4 @@
-1 Часть!
+#1 Часть!
 
 Редакторы кода
 https://htmlacademy.ru/blog/40-editors-for-the-coders – Обзор редакторов для верстальщика.
@@ -22,7 +22,7 @@ https://www.sourcetreeapp.com – Atlassian SourceTree.
 Как оформлять коммиты, чтобы потом не было больно. - https://habrahabr.ru/company/Voximplant/blog/276695/
 
 
-2 Часть!
+#2 Часть!
 
 О разметке:
 Спецификация HTML - https://www.w3.org/TR/html/
@@ -45,7 +45,7 @@ W3C или WHATWG. - https://htmlacademy.ru/shorts/11
 Code Guide by @mdo. - http://codeguide.co/
 Google HTML/CSS Style Guide (перевод). - https://google.github.io/styleguide/htmlcssguide.html
 
-3 Часть!
+#3 Часть!
 
 Статьи:
 Фотошоп для верстальщика. - https://htmlacademy.ru/blog/51-photoshop-for-the-coders
@@ -72,7 +72,7 @@ SVG: группировка и переиспользование элемент
 ImageOptim для macOS. - https://imageoptim.com/mac
 FileOptimizer для Windows. - https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer
 
-4 Часть!
+#4 Часть!
 
 Статьи о доступности:
 Рекомендации по разработке сайтов для людей с нарушениями зрения. - https://weblind.ru/
@@ -90,7 +90,7 @@ Alt-texts: The Ultimate Guide. - https://axesslab.com/alt-texts/
 WCAG 2.0, или боль доступного веба. - https://www.youtube.com/watch?v=ETw8uUr6Q7g
 Людоедский интерфейс. - https://www.youtube.com/watch?v=ssJsjGZE2sc
 
-5 Часть!
+#5 Часть!
 
 Работа с веб-шрифтами:
 Подключение нестандартных шрифтов. Часть первая. - https://fontstorage.com/blog/about-font-face-part-one/
