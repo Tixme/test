@@ -5,7 +5,7 @@ https://htmlacademy.ru/blog/40-editors-for-the-coders – Обзор редак�
 
 Как работают сайты на самом деле: <br>
 Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com. - https://habrahabr.ru/company/htmlacademy/blog/254825/ <br>
-HTML5Rocks: принципы работы современных веб-браузеров. - https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/
+HTML5Rocks: принципы работы современных веб-браузеров. - https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/ <br>
 Комикс «как работает DNS». - https://howdns.works/ep1/ <br>
 Как зарегистрировать свой домен. - https://htmlacademy.ru/blog/48-how-to-register-domain <br>
 
